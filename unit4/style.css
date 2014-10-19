@@ -1,0 +1,15 @@
+body {
+  	background: url("assets/restaurant_image.jpg") no-repeat;
+  	background-size: cover;
+  	background-position: right-bottom;
+  	background-attachment: fixed;
+  	margin: 0px;
+  	text-align: center;
+  	padding-top: 100px; }
+
+  	p {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 400;
+	color: #FFF; }
