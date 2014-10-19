@@ -1,0 +1,21 @@
+body {
+	background: url("unit3_images/stripes.png") repeat-x, url("unit3_images/background.jpg") no-repeat;
+	background-color:#53586B;
+	background-size: 520px 10px, cover;
+    font-size: 20px;
+    font-family: helvetica;
+    color: ghostwhite;
+    line-height: 30px;
+    margin-top: 275px;
+	margin-left: 70px;
+	padding: 20px;
+}
+
+hr {
+	width: 50px;
+	margin: 0px;
+	height: 3px;
+	border: 0px;
+	color: #905d67;
+	background: #905d67;
+}
