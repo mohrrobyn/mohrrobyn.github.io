@@ -5,8 +5,9 @@ body {
   	background-attachment: fixed;
   	margin: 0px;
   	text-align: center;
-  	padding-top: 100px; 
+  	padding-top: 100px;}
 
+h1 {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	font-size: 40px;
