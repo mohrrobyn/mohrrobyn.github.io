@@ -7,6 +7,13 @@ body {
   	text-align: center;
   	padding-top: 100px; }
 
+h1 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 400;
+	color: #FFF; }
+
   	p {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
