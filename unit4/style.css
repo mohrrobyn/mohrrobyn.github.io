@@ -13,11 +13,12 @@ body {
 	font-weight: 400;
 	background-color: #fff;
 	color: #696969; }
-	text-shadow: black 0.1em 0.1em 0.2em}
+	
 
   	p {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	font-size: 40px;
 	font-weight: 400;
+	background-color: #696969;
 	color: #fff; }
